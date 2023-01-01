@@ -2,6 +2,8 @@
 
 This is an app to calculate your Grade Point Average for a course, in terms of a percentage. Play with it on [Streamlit](https://awesomecosmos-gpa-calculator-appmain-yvvhgc.streamlit.app/)!
 
+<img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif">
+
 ## Authors
 
 - [@awesomecosmos](https://www.github.com/awesomecosmos) (me!)

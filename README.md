@@ -23,4 +23,4 @@ At my school, a final course grade of 94.22% gives me an A grade, which translat
 ## About The App
 This app was built in Streamlit using Python. Check out the ```app/main.py``` for a look at the code!
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
+<img src="assets/gpa-calculator-demo.gif">

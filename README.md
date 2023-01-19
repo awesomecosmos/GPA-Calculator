@@ -20,9 +20,13 @@ I am currently pursuing my MS in Data Science, and it is really important to tra
 ## How It Works
 Assuming that all assignments in the course have a percentage of the total grade assigned to them, and you earn a percentage on each of those assignments, this app returns how much of the final grade (100%) you have earned so far. For example, let's say there are 4 assignments in your course, worth 20%, 20%, 30% and 30% respectively (called 'weight'), adding up to 100%. Let's say you earned 96.4%, 97.8%, 89.1% and 95.5% (called 'percent_obtained') on each of the assignments respectively. The app will calculate your final percentage, in this case, 94.22%. You can compare this final percentage against your school's GPA scale, and estimate what final grade you will get.
 
+This is how the percentage is calculated for each assignment:
+
+$$final\\_percent = \frac{weight \times percent\\_obtained}{100}$$
+
 At my school, a final course grade of 94.22% gives me an A grade, which translates to a 4.0 on my school's GPA scale. Not bad!
 
 ## About The App
-This app was built in Streamlit using Python. Check out the ```app/main.py``` for a look at the code!
+This app was built in Streamlit using Python. Check out the [```app/main.py```](https://github.com/awesomecosmos/GPA-Calculator/blob/main/app/main.py) file for a look at the code!
 
 <img src="assets/gpa-calculator-demo.gif">
